@@ -10,7 +10,9 @@ In Conference on Decision and Game Theory for Security (GameSec), 2018
 The code/ folder contains a methods and classes to run uniform sampling and beam search for training set camouflage that was used to generate the results in the  paper. The sample code also shows how to use the algorithms for a logistic regression learner. The data/ folder contains a sample toy dataset to run the code.
 
 For inquiries please contact:
+
 Ayon Sen, asen6@wisc.edu
+
 Jerry Zhu, jerryzhu@cs.wisc.edu
 
 Released on September 16, 2019, Version: 1.0
